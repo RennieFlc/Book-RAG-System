@@ -206,5 +206,5 @@ The iterative design process, including failed attempts and refinements, reflect
 
 ## 👤 Author
 
-**Negar Chamanitabrez**
+**Negar Chamanitabriz**
 EEE517 – Deep Learning & NLP Project
