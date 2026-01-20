@@ -1,8 +1,3 @@
-Absolutely — below is a **clean, professional, professor-ready README** that explains **what you built, why, and how**, without being overcomplicated.
-You can copy-paste this directly into `README.md` on GitHub.
-
----
-
 # RAG-Book-QA
 
 **Retrieval-Augmented Generation for Book-Based Question Answering**
